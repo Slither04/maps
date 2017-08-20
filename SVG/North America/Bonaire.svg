@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 42" style="enable-background:new 0 0 64 42;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#012A87;}
+	.st1{fill:#F9D90F;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.8107;}
+	.st4{fill:#DC171D;}
+</style>
+<path id="SVGID_1_" class="st0" d="M5.8,0h52.3C61.4,0,64,2.6,64,5.7v30.6c0,3.2-2.6,5.7-5.8,5.7H5.8C2.6,42,0,39.4,0,36.3V5.7
+	C0,2.6,2.6,0,5.8,0z"/>
+<path class="st1" d="M5.8,0C2.6,0,0,2.6,0,5.7V24L40.3,0H5.8z"/>
+<path class="st2" d="M58.1,0H33.4L0,20v16.3c0,1.8,0.9,3.5,2.3,4.5L63.8,4.3C63.2,1.8,60.9,0,58.1,0z"/>
+<circle class="st3" cx="21" cy="18.5" r="5.9"/>
+<polygon points="19.9,12.8 22.1,12.8 21,10.9 "/>
+<polygon points="21,26.1 22.1,24.2 19.9,24.2 "/>
+<polygon points="26.7,17.4 26.7,19.6 28.6,18.5 "/>
+<polygon points="15.4,19.6 15.4,17.4 13.4,18.5 "/>
+<polygon class="st4" points="23.2,18.5 24.3,16.6 22.1,16.6 21,14.7 20,16.6 17.8,16.6 18.9,18.5 17.8,20.4 20,20.4 21,22.3 
+	22.1,20.4 24.3,20.4 "/>
+</svg>

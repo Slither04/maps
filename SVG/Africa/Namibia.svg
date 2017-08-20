@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 42" style="enable-background:new 0 0 64 42;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#009242;}
+	.st1{fill:#00337C;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#D21034;}
+	.st4{fill:#FFCE00;}
+	.st5{fill:#FFCE00;stroke:#00347E;stroke-width:0.5;stroke-miterlimit:10;}
+</style>
+<path id="Rounded_Rectangle_7_copy_2_" class="st0" d="M5.8,0h52.3C61.4,0,64,2.6,64,5.7v30.6c0,3.2-2.6,5.7-5.8,5.7H5.8
+	C2.6,42,0,39.4,0,36.3V5.7C0,2.6,2.6,0,5.8,0z"/>
+<path class="st1" d="M53.8,0h-48C2.6,0,0,2.6,0,5.7V32L53.8,0z"/>
+<path class="st2" d="M58.1,0H52L0,30.9v5.4C0,39.4,2.6,42,5.8,42H12l52-30.9V5.7C64,2.6,61.4,0,58.1,0z"/>
+<path class="st3" d="M58.5,0L0,34.7v1.6c0,3,2.5,5.5,5.5,5.7L64,7.3V5.7C64,2.7,61.6,0.2,58.5,0z"/>
+<g>
+	<path id="star" class="st4" d="M19,15.1l-3.2-0.6l0.6,3.2l-2.5-2.1l-1.1,3.1l-1.1-3.1l-2.5,2.1l0.6-3.2l-3.2,0.6l2.1-2.5l-3.1-1.1
+		l3.1-1.1L6.2,7.8l3.2,0.6L8.9,5.1l2.5,2.1l1.1-3.1l1.1,3.1l2.5-2.1l-0.6,3.2L19,7.8l-2.1,2.5l3.1,1.1l-3.1,1.1L19,15.1z"/>
+	<path id="yellow_circle" class="st5" d="M16.7,11.4c0,2.2-1.8,4.1-4.1,4.1s-4.1-1.8-4.1-4.1s1.8-4.1,4.1-4.1S16.7,9.2,16.7,11.4z"
+		/>
+</g>
+</svg>
